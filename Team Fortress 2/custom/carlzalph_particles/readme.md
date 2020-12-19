@@ -7,7 +7,8 @@ Each one is a different Preset
 Don't need all of them, just one of 'em.
 
 Depri note:	
-I have converted the .zips to vpks so the game can read them easier and so its cleaner when putting it into the custom folder.
+I have converted the .zips to vpks so the game can read them easier.
+Also all but one of the links are dead.
 
 
 VERIFICATION OF INTEGRITY:
@@ -16,8 +17,8 @@ VERIFICATION OF INTEGRITY:
     Valve could have edited any of the particles in this time.
     You can see this happening usually when either the game crashes or particles that aren't supposed to be used for something start appearing for something else.
 
-
 PRESETS:
+
                     Screenshot URL
                 Particle Burst Amount
             Particle Emission Rate
