@@ -12,7 +12,7 @@ INSTALLATION:
     Download one of the pack.zips with the presets.
     Unarchive it.
     Place the folder into:
-    <Steam>/SteamApps/common/Team Fortress 2/tf/custom/
+    Team Fortress 2/tf/custom/
     Run TF2 and enjoy the reduced particles.
 
 Depri note:	
