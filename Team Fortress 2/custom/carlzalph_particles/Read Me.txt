@@ -1,3 +1,8 @@
+Depri note:
+		
+	I have converted the .zips to vpks so the game can read them easier and so its cleaner when putting it into the custom folder.
+
+
 VERIFICATION OF INTEGRITY:
     This pack was generated with the game version listed in "Game Version.txt"
     If your game version doesn't match this because it has a higher number, then this pack might not work 100% perfectly.
@@ -62,7 +67,3 @@ FAQ:
 
     10] I want a different preset!
         Accepting preset suggestions.
-
-Depri note:
-		
-		I have converted the .zips to vpks so the game can read them easier and so its cleaner when putting it into the custom folder.
