@@ -6,9 +6,8 @@ Each one is a different Preset
 
 Don't need all of them, just one of 'em.
 
-Depri note:
-		
-	I have converted the .zips to vpks so the game can read them easier and so its cleaner when putting it into the custom folder.
+Depri note:	
+I have converted the .zips to vpks so the game can read them easier and so its cleaner when putting it into the custom folder.
 
 
 VERIFICATION OF INTEGRITY:
