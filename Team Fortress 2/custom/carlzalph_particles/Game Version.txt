@@ -1,0 +1,8 @@
+] version
+Build Label:           4192434   # Uniquely identifies each build
+Network PatchVersion:  4192434   # Determines client and server compatibility
+Protocol version:           24   # High level network protocol version
+Server version:        4192434
+Server AppID:           232250
+Client version:        4192434
+Client AppID:              440
