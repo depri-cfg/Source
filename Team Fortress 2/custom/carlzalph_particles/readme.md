@@ -46,7 +46,7 @@ Where this was posted at:
     http://www.reddit.com/r/tf2/comments/2v0c84/particle_limitation_pack/
     http://teamfortress.tv/thread/22586/particle-limitation-pack
     http://probablyaserver.com/forums/thread-1656.html
-    and here obviously.
+    and here by me.
 
 FAQ:
     
