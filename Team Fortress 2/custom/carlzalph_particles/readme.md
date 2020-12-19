@@ -66,6 +66,7 @@ FAQ:
 
     7] I hate Mediafire!
         It's free.
+        And if you're reading this you're on github which is also free -depri
 
     8] May I post this URL somewhere?
         Go for it.
