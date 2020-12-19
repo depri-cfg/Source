@@ -5,3 +5,5 @@ Here are where I got them from. They have inspired me to edit/make files. I will
   https://mastercomfig.com/
   
   https://www.teamfortress.tv/22586/particle-limitation-pack
+
+  https://github.com/Fedora31/no-hats-bgum
