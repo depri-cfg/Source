@@ -14,8 +14,8 @@ Don't need all of them, just one of 'em.
 INSTALLATION:
 
     Quit TF2 if it is open.
-    Download one of the carlzalph_particles_#.vpk.
-    Place the folder into:
+    Download one of the carlzalph_particles_#.vpk
+    Place the vpk into:
     Team Fortress 2/tf/custom/
     Run TF2 and enjoy the reduced particles.
 
