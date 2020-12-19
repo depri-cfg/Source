@@ -6,6 +6,15 @@ Each one is a different Preset
 
 Don't need all of them, just one of 'em.
 
+INSTALLATION:
+
+    Quit TF2 if it is open.
+    Download one of the pack.zips with the presets.
+    Unarchive it.
+    Place the folder into:
+    <Steam>/SteamApps/common/Team Fortress 2/tf/custom/
+    Run TF2 and enjoy the reduced particles.
+
 Depri note:	
 I have converted the .zips to vpks so the game can read them easier.
 Also all but one of the links are dead.
@@ -29,16 +38,6 @@ PRESETS:
     1   2   30  30  http://cloud-4.steamusercontent.com/ugc/32985008242472202/619011A3E4A714C6D37CBA4C5B1A1A7F8E60ED56/
     2   1   15  15  http://cloud-4.steamusercontent.com/ugc/32985008242472623/66BF0396F43BAFBE6A02B801BDAE94153856ABF1/
     3   .1  1   1   http://cloud-4.steamusercontent.com/ugc/32985008242473626/E3FE0E59391FC4B199B1D677C2E51619D60827DF/
-
-
-INSTALLATION:
-    Quit TF2 if it is open.
-    Download one of the pack.zips with the presets.
-    Unarchive it.
-    Place the folder into:
-    <Steam>/SteamApps/common/Team Fortress 2/tf/custom/
-    Run TF2 and enjoy the reduced particles.
-
 
 FAQ:
     
