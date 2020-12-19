@@ -15,7 +15,7 @@ Don't need all of them, just one of 'em.
 INSTALLATION:
 
     Quit TF2 if it is open.
-    Download one of the pack.zips with the presets.
+    Download one of the pack.vpk with the presets.
     Unarchive it.
     Place the folder into:
     Team Fortress 2/tf/custom/
