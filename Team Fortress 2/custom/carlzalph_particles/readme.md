@@ -40,6 +40,14 @@ PRESETS:
     2   1   15  15  http://cloud-4.steamusercontent.com/ugc/32985008242472623/66BF0396F43BAFBE6A02B801BDAE94153856ABF1/
     3   .1  1   1   http://cloud-4.steamusercontent.com/ugc/32985008242473626/E3FE0E59391FC4B199B1D677C2E51619D60827DF/
 
+Where this was posted at:
+
+    http://forums.steampowered.com/forums/showthread.php?p=35938737
+    http://www.reddit.com/r/tf2/comments/2v0c84/particle_limitation_pack/
+    http://teamfortress.tv/thread/22586/particle-limitation-pack
+    http://probablyaserver.com/forums/thread-1656.html
+    and here obviously.
+
 FAQ:
     
     1] It doesn't do anything?!
