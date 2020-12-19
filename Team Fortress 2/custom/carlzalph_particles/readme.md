@@ -3,10 +3,9 @@ I have converted the .zips to vpks so the game can read them easier.
 Also all but one of the links are dead. 
 If you want to message Carl this is his steam https://steamcommunity.com/id/CarlZalph I'm not friends with him I'm simply taking his work and simplyfing it.
 
+Choose any single vpk file.
 
 carlzalph_particles_#.vpk 
-
-Choose any single vpk file.
 
 Each one is a different Preset
 
@@ -15,8 +14,7 @@ Don't need all of them, just one of 'em.
 INSTALLATION:
 
     Quit TF2 if it is open.
-    Download one of the pack.vpk with the presets.
-    Unarchive it.
+    Download one of the carlzalph_particles_#.vpk.
     Place the folder into:
     Team Fortress 2/tf/custom/
     Run TF2 and enjoy the reduced particles.
