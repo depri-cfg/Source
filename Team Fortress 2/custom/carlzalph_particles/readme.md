@@ -41,6 +41,7 @@ INSTALLATION:
 
 
 FAQ:
+    
     1] It doesn't do anything?!
         Ensure you put the folder into the custom folder unzipped.
         Check server CVar sv_pure to see if it allows custom particles in the first place.
