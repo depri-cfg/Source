@@ -1,7 +1,7 @@
 Depri note:	
 I have converted the .zips to vpks so the game can read them easier.
-Also all but one of the links are dead. 
-If you want to message Carl this is his steam https://steamcommunity.com/id/CarlZalph I'm not friends with him I'm simply taking his work and simplyfing it.
+ Also all but one of the links are dead. 
+ If you want to message Carl this is his steam https://steamcommunity.com/id/CarlZalph I'm not friends with him I'm simply taking his work and simplyfing it.
 
 Choose any single vpk file.
 
